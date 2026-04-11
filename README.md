@@ -1,4 +1,4 @@
-# Job-Market-Analytics
+# Tech-Job-Market-Intelligence
 📌 Brief One Line Summary
 
 A data analytics project that explores job market trends by analyzing job postings, extracting key skills, and visualizing insights using Power BI.
